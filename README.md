@@ -16,7 +16,5 @@ In this exercise, I train a RNN to predict a letter based on the past letters by
 Anna Karenina by Leo Tolstoy. It successfully generate words that make sense, but since I am only giving one letter at time,
 the words does not make sense with the other words arround them. 
 
-## Word2Vec
-In this exercise, I developped a word embeding algorithm using the skip-gram learning technique. 
-I learned how negative sampling could be used to increase the learning time and how embedding
-layers work with PyTorch.
+## Sentiment Analysis
+In this exercise, I am training a RNN to prefict if a movie review is positive of negative.
