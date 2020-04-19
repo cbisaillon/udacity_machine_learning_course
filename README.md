@@ -1,6 +1,11 @@
 # My projects on Udacity
 Thoughtout the Udacity's deep learning nanodegree program, I have to work on multiple projects.
 
+## Face Generator
+Using a Generative Adversarial Network (GAN), I made a human face generator. 
+The GAN is trained on a dataset of celebrity images and is trained to create images that look like they
+are comming from this dataset.
+
 ## Bake Sharing Prediction
 In this project, I own a store that rent bikes. Using a dataset containing numbers 
 like the amount of bikes rented, temperature, season and wind speed at every hour, 
