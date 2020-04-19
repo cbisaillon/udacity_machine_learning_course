@@ -18,3 +18,6 @@ the words does not make sense with the other words arround them.
 
 ## Sentiment Analysis
 In this exercise, I am training a RNN to prefict if a movie review is positive of negative.
+
+## CycleGan - Winter to Summer
+In this mini project, I built a CycleGan architecture that learns to transforms an summer landscape image into a winter landscape image.
